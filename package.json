@@ -29,7 +29,7 @@
     "nuxt": "^2.0.0",
     "pg-promise": "^8.7.2",
     "quickthumb": "0.0.12",
-    "sharp": "^0.22.1",
+    "sharp": "^0.30.5",
     "vuelidate": "^0.7.4"
   },
   "devDependencies": {
